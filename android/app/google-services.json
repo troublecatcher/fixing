@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413151899476",
+    "project_id": "fixing-9dd97",
+    "storage_bucket": "fixing-9dd97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413151899476:android:7822f7b82237aa6f8ca2c1",
+        "android_client_info": {
+          "package_name": "com.example.fixease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITncJFGl78i1XqAwd_qm0m1gbb_SlCeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
